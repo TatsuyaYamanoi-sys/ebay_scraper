@@ -1,0 +1,8 @@
+docker-compose.yml
+.png
+.jpg
+.org
+.env
+/docs/
+/postgres_data/
+/tests/
